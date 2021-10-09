@@ -4,7 +4,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hirtonsantos)](https://github.com/hirtonsantos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hirton-silva-evangelista-santos//)](https://www.linkedin.com/in/hirton-silva-evangelista-santos//)
 
-//
 
 ## About me:
 
@@ -22,6 +21,6 @@ I Love code and developing solutions as a software engineer.
 
 ## What I don't know, give me a few days 😁
 
-[![hirtonsantos github stats](https://github-readme-stats.vercel.app/api?username=hirtonsantos&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=false)](https://github.com/hirtonsantos)
+[![hirtonsantos github stats](https://github-readme-stats.vercel.app/api?username=hirtonsantos&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/hirtonsantos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirtonsantos&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/hirtonsantos)
