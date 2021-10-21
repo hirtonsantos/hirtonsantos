@@ -9,7 +9,7 @@
 
 I'm a Front-End Developer :smile:
 
-I Love code and developing solutions as a software engineer.  
+I love code and developing solutions as a software engineer.  
 
 ## My specialties:
 
