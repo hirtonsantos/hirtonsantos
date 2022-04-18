@@ -7,7 +7,7 @@
 
 ## About me:
 
-I'm a Front-End Developer :smile:
+I'm a Full-Stack Developer :smile:
 
 I love code and developing solutions as a software engineer.  
 
