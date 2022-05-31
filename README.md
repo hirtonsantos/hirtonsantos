@@ -28,9 +28,8 @@ I love code and developing solutions as a software engineer.
 ### Version Control: 
 <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
- <div>
-  <a href="https://github.com/hirtonsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirtonsantos&show_icons=true&theme=dracula&commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirtonsantos&layout=compact&langs_count=15&hide=less&theme=dracula"/> 
-</div>
+## What I don't know, give me a few days :risadinha:
+
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=hirtonsantos&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c25)](https://github.com/hirtonsantos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirtonsantos&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/hirtonsantos)
 
